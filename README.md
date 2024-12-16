@@ -1,4 +1,10 @@
 # Japanese To English Translation using Transformers
+
+## Dataset
+
+You can download or refer the dataset used here by clicking on [this link](https://huggingface.co/datasets/Helsinki-NLP/opus-100).
+
+
 ## Usage
 
 Run the following command to install the required dependencies:
