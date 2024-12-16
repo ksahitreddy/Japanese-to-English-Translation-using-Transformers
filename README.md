@@ -19,4 +19,6 @@ After installing the dependencies, run the code with:
 python train.py
 ```
 
-If you want to change the configuration of the training such as epochs, batch size, sequence length, etc., you can do so in the [config.py](config.py) file.
+## Change configuration and hyperparameters
+
+If you want to change the configuration of the training process such as number of epochs, batch size, sequence length, etc., you can do so by editing the [config.py](config.py) file.
